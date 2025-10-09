@@ -13,5 +13,6 @@ https://kumu.io/jcmachicao/human-cognition-map <br>
 
 Arquitecturas de Deep Learning con Funciones Cognitivas <br>
 https://kumu.io/jcmachicao/arquitecturas-deeplearning <br>
-
-
+ 
+Procesos Interrelacionados de Gestión de Proyectos PMBOK <br>
+https://kumu.io/jcmachicao/pmbok-red-v6-es <br>
