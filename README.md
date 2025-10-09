@@ -3,7 +3,7 @@ Maestría en Inteligencia Artificial <br>
 Universidad Continental <br>
 Docente: José Carlos Machicao <br>
 
-## Ejemplos de sistemas cognitivos
+## Ejemplos de sistemas cognitivos en base a Grafos
 
 Las obras de Beethoven <br>
 https://kumu.io/jcmachicao/beethoven-work <br>
