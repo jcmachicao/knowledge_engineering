@@ -16,3 +16,6 @@ https://kumu.io/jcmachicao/arquitecturas-deeplearning <br>
  
 Procesos Interrelacionados de Gestión de Proyectos PMBOK <br>
 https://kumu.io/jcmachicao/pmbok-red-v6-es <br>
+
+## Ejemplos de algoritmos genéticos
+https://www.geneticalgorithms.online/nqueens
