@@ -5,6 +5,7 @@ Docente: José Carlos Machicao <br>
 
 ## Videos relevantes
 
+Una nueva ecuación de inteligencia
 https://www.youtube.com/watch?v=ue2ZEmTJ_Xo
 
 ## Ejemplos de sistemas cognitivos en base a Grafos
